@@ -1,1 +1,1 @@
-# einstieg_in_c
+# Einstieg in C - Galileo Computing
